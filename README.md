@@ -47,5 +47,3 @@ Run `ProductReaderWriterTest` via your IDE's JUnit 5 runner.
 ## What I'd Improve Next
 - Migrate to Maven/Gradle so dependencies resolve automatically instead of being committed as jars
 - Add a GUI (currently CLI-only)
-````
-````
