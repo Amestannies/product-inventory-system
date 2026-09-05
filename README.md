@@ -49,9 +49,3 @@ Run `ProductReaderWriterTest` via your IDE's JUnit 5 runner.
 - Add a GUI (currently CLI-only)
 ````
 ````
-
-Two small things before you paste this in:
-1. **Verify the `Q` quit option is actually a capital `Q`** and that the menu text I wrote above matches what your program actually prints — I pulled it from your terminal output a few messages back, but double check nothing's changed.
-2. **Drop this straight in as `README.md`** at the repo root (not inside `src/` or `archive/`) — GitHub only auto-renders the one at the top level below the file list.
-
-Once it's pushed, that's Product Inventory fully wrapped — repo, dependencies, archive folder, tests confirmed working, and a README that matches reality rather than aspiration. Ready for AI Admin Assistant, Held Open, Pull, or Controlled Decay whenever you want to move to the next one.
