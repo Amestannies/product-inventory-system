@@ -1,0 +1,302 @@
+[
+    {
+        "ID": "H6806",
+        "Name": "Air Fryer",
+        "Category": "Home & Kitchen",
+        "Supplier": "Philips",
+        "QuantityInStock": 90,
+        "ReorderLevel": 17,
+        "DateAdded": "2024-12-24T20:24:40.821",
+        "DateUpdatd": "2025-01-03T20:24:40.821"
+    },
+    {
+        "ID": "E4434",
+        "Name": "Laptop",
+        "Category": "Electronics",
+        "Supplier": "Asus",
+        "QuantityInStock": 65,
+        "ReorderLevel": 3,
+        "DateAdded": "2025-02-02T20:24:40.821",
+        "DateUpdatd": "2025-02-07T20:24:40.821"
+    },
+    {
+        "ID": "E9944",
+        "Name": "Smartphone",
+        "Category": "Electronics",
+        "Supplier": "Asus",
+        "QuantityInStock": 7,
+        "ReorderLevel": 18,
+        "DateAdded": "2025-01-28T20:24:40.821",
+        "DateUpdatd": "2025-01-29T20:24:40.821"
+    },
+    {
+        "ID": "B8368",
+        "Name": "Science Fiction Book",
+        "Category": "Books",
+        "Supplier": "Scholastic",
+        "QuantityInStock": 44,
+        "ReorderLevel": 15,
+        "DateAdded": "2024-11-23T20:24:40.821",
+        "DateUpdatd": "2024-11-25T20:24:40.821"
+    },
+    {
+        "ID": "B7673",
+        "Name": "Business Strategy Book",
+        "Category": "Books",
+        "Supplier": "Simon & Schuster",
+        "QuantityInStock": 62,
+        "ReorderLevel": 7,
+        "DateAdded": "2025-01-14T20:24:40.821",
+        "DateUpdatd": "2025-01-20T20:24:40.821"
+    },
+    {
+        "ID": "C6466",
+        "Name": "Casual Dress",
+        "Category": "Clothing",
+        "Supplier": "Under Armour",
+        "QuantityInStock": 100,
+        "ReorderLevel": 15,
+        "DateAdded": "2025-01-18T20:24:40.821",
+        "DateUpdatd": "2025-01-20T20:24:40.821"
+    },
+    {
+        "ID": "C7797",
+        "Name": "Baseball Cap",
+        "Category": "Clothing",
+        "Supplier": "H&M",
+        "QuantityInStock": 100,
+        "ReorderLevel": 3,
+        "DateAdded": "2024-11-16T20:24:40.821",
+        "DateUpdatd": "2024-11-24T20:24:40.821"
+    },
+    {
+        "ID": "S2809",
+        "Name": "Running Shoes",
+        "Category": "Sports",
+        "Supplier": "Adidas",
+        "QuantityInStock": 8,
+        "ReorderLevel": 13,
+        "DateAdded": "2025-01-08T20:24:40.821",
+        "DateUpdatd": "2025-01-18T20:24:40.821"
+    },
+    {
+        "ID": "C7831",
+        "Name": "Baseball Cap",
+        "Category": "Clothing",
+        "Supplier": "Adidas",
+        "QuantityInStock": 85,
+        "ReorderLevel": 12,
+        "DateAdded": "2024-12-23T20:24:40.821",
+        "DateUpdatd": "2024-12-24T20:24:40.821"
+    },
+    {
+        "ID": "C6500",
+        "Name": "High top sneakers",
+        "Category": "clothing",
+        "Supplier": "Converse",
+        "QuantityInStock": 100,
+        "ReorderLevel": 60,
+        "DateAdded": "2025-02-15T20:27:31.401370246",
+        "DateUpdatd": "2025-02-15T20:28:21.876557394"
+    },
+    {
+        "ID": "C3557",
+        "Name": "Men's T-Shirt",
+        "Category": "Clothing",
+        "Supplier": "Gucci",
+        "QuantityInStock": 39,
+        "ReorderLevel": 14,
+        "DateAdded": "2024-11-16T20:24:40.821",
+        "DateUpdatd": "2024-11-20T20:24:40.821"
+    },
+    {
+        "ID": "S5607",
+        "Name": "Gym Gloves",
+        "Category": "Sports",
+        "Supplier": "Everlast",
+        "QuantityInStock": 35,
+        "ReorderLevel": 7,
+        "DateAdded": "2025-01-31T20:24:40.821",
+        "DateUpdatd": "2025-02-08T20:24:40.821"
+    },
+    {
+        "ID": "E5290",
+        "Name": "Monitor",
+        "Category": "Electronics",
+        "Supplier": "Apple",
+        "QuantityInStock": 44,
+        "ReorderLevel": 5,
+        "DateAdded": "2025-01-16T20:24:40.821",
+        "DateUpdatd": "2025-01-25T20:24:40.821"
+    },
+    {
+        "ID": "E6049",
+        "Name": "Tablet",
+        "Category": "Electronics",
+        "Supplier": "Samsung",
+        "QuantityInStock": 16,
+        "ReorderLevel": 5,
+        "DateAdded": "2025-01-10T20:24:40.821",
+        "DateUpdatd": "2025-01-19T20:24:40.821"
+    },
+    {
+        "ID": "E8128",
+        "Name": "Smartphone",
+        "Category": "Electronics",
+        "Supplier": "Samsung",
+        "QuantityInStock": 73,
+        "ReorderLevel": 7,
+        "DateAdded": "2024-11-25T20:24:40.821",
+        "DateUpdatd": "2024-12-02T20:24:40.821"
+    },
+    {
+        "ID": "S8284",
+        "Name": "Jump Rope",
+        "Category": "Sports",
+        "Supplier": "Peloton",
+        "QuantityInStock": 58,
+        "ReorderLevel": 8,
+        "DateAdded": "2024-12-13T20:24:40.821",
+        "DateUpdatd": "2024-12-16T20:24:40.821"
+    },
+    {
+        "ID": "S4780",
+        "Name": "Gym Gloves",
+        "Category": "Sports",
+        "Supplier": "Peloton",
+        "QuantityInStock": 24,
+        "ReorderLevel": 2,
+        "DateAdded": "2024-12-25T20:24:40.821",
+        "DateUpdatd": "2024-12-27T20:24:40.821"
+    },
+    {
+        "ID": "E2567",
+        "Name": "Smartwatch",
+        "Category": "Electronics",
+        "Supplier": "Asus",
+        "QuantityInStock": 78,
+        "ReorderLevel": 4,
+        "DateAdded": "2024-12-17T20:24:40.821",
+        "DateUpdatd": "2024-12-24T20:24:40.821"
+    },
+    {
+        "ID": "H5384",
+        "Name": "Dinnerware Set",
+        "Category": "Home & Kitchen",
+        "Supplier": "Philips",
+        "QuantityInStock": 84,
+        "ReorderLevel": 14,
+        "DateAdded": "2024-12-15T20:24:40.821",
+        "DateUpdatd": "2024-12-20T20:24:40.821"
+    },
+    {
+        "ID": "C3500",
+        "Name": "Women's Jacket",
+        "Category": "Clothing",
+        "Supplier": "Columbia",
+        "QuantityInStock": 33,
+        "ReorderLevel": 10,
+        "DateAdded": "2025-01-11T20:24:40.821",
+        "DateUpdatd": "2025-01-21T20:24:40.821"
+    },
+    {
+        "ID": "E2626",
+        "Name": "Tablet",
+        "Category": "Electronics",
+        "Supplier": "HP",
+        "QuantityInStock": 97,
+        "ReorderLevel": 10,
+        "DateAdded": "2025-01-20T20:24:40.821",
+        "DateUpdatd": "2025-01-25T20:24:40.821"
+    },
+    {
+        "ID": "E3856",
+        "Name": "Bluetooth Speaker",
+        "Category": "Electronics",
+        "Supplier": "Apple",
+        "QuantityInStock": 6,
+        "ReorderLevel": 8,
+        "DateAdded": "2025-01-03T20:24:40.821",
+        "DateUpdatd": "2025-01-10T20:24:40.821"
+    },
+    {
+        "ID": "H9840",
+        "Name": "Air Fryer",
+        "Category": "Home & Kitchen",
+        "Supplier": "KitchenAid",
+        "QuantityInStock": 93,
+        "ReorderLevel": 2,
+        "DateAdded": "2025-01-16T20:24:40.821",
+        "DateUpdatd": "2025-01-25T20:24:40.821"
+    },
+    {
+        "ID": "B5599",
+        "Name": "Graphic Novel",
+        "Category": "Books",
+        "Supplier": "Simon & Schuster",
+        "QuantityInStock": 88,
+        "ReorderLevel": 6,
+        "DateAdded": "2024-12-22T20:24:40.821",
+        "DateUpdatd": "2024-12-30T20:24:40.821"
+    },
+    {
+        "ID": "S1790",
+        "Name": "Running Shorts",
+        "Category": "Sports",
+        "Supplier": "Reebok",
+        "QuantityInStock": 5,
+        "ReorderLevel": 19,
+        "DateAdded": "2024-12-14T20:24:40.821",
+        "DateUpdatd": "2024-12-24T20:24:40.821"
+    },
+    {
+        "ID": "H7701",
+        "Name": "Vacuum Cleaner",
+        "Category": "Home & Kitchen",
+        "Supplier": "Philips",
+        "QuantityInStock": 51,
+        "ReorderLevel": 6,
+        "DateAdded": "2024-11-16T20:24:40.821",
+        "DateUpdatd": "2024-11-24T20:24:40.821"
+    },
+    {
+        "ID": "S3553",
+        "Name": "Dumbbells Set",
+        "Category": "Sports",
+        "Supplier": "Spalding",
+        "QuantityInStock": 3,
+        "ReorderLevel": 20,
+        "DateAdded": "2024-12-09T20:24:40.821",
+        "DateUpdatd": "2024-12-18T20:24:40.821"
+    },
+    {
+        "ID": "B7319",
+        "Name": "Business Strategy Book",
+        "Category": "Books",
+        "Supplier": "Tor Books",
+        "QuantityInStock": 89,
+        "ReorderLevel": 20,
+        "DateAdded": "2025-01-25T20:24:40.821",
+        "DateUpdatd": "2025-02-03T20:24:40.821"
+    },
+    {
+        "ID": "H9629",
+        "Name": "Air Fryer",
+        "Category": "Home & Kitchen",
+        "Supplier": "OXO",
+        "QuantityInStock": 43,
+        "ReorderLevel": 5,
+        "DateAdded": "2024-12-07T20:24:40.821",
+        "DateUpdatd": "2024-12-12T20:24:40.821"
+    },
+    {
+        "ID": "S8307",
+        "Name": "Tennis Racket",
+        "Category": "Sports",
+        "Supplier": "Callaway",
+        "QuantityInStock": 66,
+        "ReorderLevel": 18,
+        "DateAdded": "2024-11-24T20:24:40.821",
+        "DateUpdatd": "2024-11-25T20:24:40.821"
+    }
+]

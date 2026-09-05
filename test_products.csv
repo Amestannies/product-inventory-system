@@ -1,0 +1,2 @@
+ID,Name,Category,Supplier,QuantityInStock,ReorderLevel,DateAdded,DateUpdated
+P001,Widget,Tools,Acme,100,20,2024-01-01T10:00:00,2024-01-02T10:00:00

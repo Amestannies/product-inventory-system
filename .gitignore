@@ -1,0 +1,7 @@
+bin/
+out/
+.classpath
+.project
+.settings/
+test_output.csv
+test_output.json

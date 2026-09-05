@@ -1,0 +1,12 @@
+[
+  {
+    "ID": "P001",
+    "Name": "Widget",
+    "Category": "Tools",
+    "Supplier": "Acme",
+    "QuantityInStock": 100,
+    "ReorderLevel": 20,
+    "DateAdded": "2024-01-01T10:00:00",
+    "DateUpdatd": "2024-01-02T10:00:00"
+  }
+]
