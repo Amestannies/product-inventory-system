@@ -2,6 +2,8 @@
 
 A Java-based inventory management system supporting both CSV and JSON formats, built with a Factory design pattern for extensible file I/O and covered by JUnit 5 tests.
 
+<img width="623" height="692" alt="product_inventory_example" src="https://github.com/user-attachments/assets/cba9ca37-d6aa-4586-a2ae-dfe37627add5" />
+
 ## Requirements
 - Java 21+
 - Dependencies (included in `/lib`): opencsv 5.7.1, commons-lang3 3.12.0, json-simple 1.1.1
